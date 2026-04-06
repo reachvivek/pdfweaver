@@ -1,0 +1,17 @@
+{
+  "name": "PDFWeaver - Merge PDFs & Images Online",
+  "short_name": "PDFWeaver",
+  "description": "Free online tool to merge PDFs and images into one document. No signup required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
